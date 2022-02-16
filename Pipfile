@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+url = "https://rospypi.github.io/simple"
+verify_ssl = true
+name = "ros"
+
+[packages]
+black = "*"
+foxglove-data-platform = {editable = true, path = "../py-data-platform"}
+isort = "*"
+jupyterlab = "*"
+jupyterlab_code_formatter = "*"
+mcap = "*"
+python-dotenv = "*"
+requests = "*"
+rosbag = {version="*", index="ros"}
+tabulate = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
