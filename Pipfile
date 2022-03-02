@@ -10,7 +10,7 @@ name = "ros"
 
 [packages]
 black = "*"
-foxglove-data-platform = {editable = true, path = "../py-data-platform"}
+foxglove-data-platform = "*"
 isort = "*"
 jupyterlab = "*"
 jupyterlab_code_formatter = "*"
