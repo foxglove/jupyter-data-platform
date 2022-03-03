@@ -14,11 +14,12 @@ foxglove-data-platform = "*"
 isort = "*"
 jupyterlab = "*"
 jupyterlab_code_formatter = "*"
+matplotlib = "*"
 mcap = "*"
+pandas = "*"
 python-dotenv = "*"
 requests = "*"
 rosbag = {version="*", index="ros"}
-tabulate = "*"
 
 [dev-packages]
 
