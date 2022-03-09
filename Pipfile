@@ -11,15 +11,16 @@ name = "ros"
 [packages]
 black = "*"
 foxglove-data-platform = "*"
-isort = "*"
+folium = "*"
+genpy = "*"
 jupyterlab = "*"
 jupyterlab_code_formatter = "*"
 matplotlib = "*"
 mcap = "*"
+mcap-ros1-support = "*"
 pandas = "*"
 python-dotenv = "*"
-requests = "*"
-rosbag = {version="*", index="ros"}
+rosbag = "*"
 
 [dev-packages]
 
