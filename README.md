@@ -6,13 +6,22 @@ This is a juypter notebook demonstrating Foxglove Data Platform's capabilities.
 
 ## Getting Started
 
-Run the followig commands:
+To run the notebook directly use following commands:
 
 ```bash
 pip install pipenv
 pipenv install
 pipenv run jupyter-lab
 ```
+
+Alternatively you can launch the notebook via docker:
+
+```
+docker build . -t jupyter-data-platform
+docker run -it --rm -p 8888:8888 jupyter-data-platform
+```
+
+And then connect to the notebook via http://localhost:8888/lab/tree/FetchingData.ipynb
 
 ## Stay in touch
 
