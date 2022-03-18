@@ -21,7 +21,7 @@ docker build . -t jupyter-data-platform
 docker run -it --rm -p 8888:8888 jupyter-data-platform
 ```
 
-And then connect to the notebook via http://localhost:8888/lab/tree/FetchingData.ipynb
+And then connect to the notebook via http://localhost:8888/lab/tree/FoxgloveDataPlatform.ipynb
 
 ## Stay in touch
 
