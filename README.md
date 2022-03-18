@@ -23,6 +23,10 @@ docker run -it --rm -p 8888:8888 jupyter-data-platform
 
 And then connect to the notebook via http://localhost:8888/lab/tree/FoxgloveDataPlatform.ipynb
 
+You can also launch the notebook in binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/foxglove/jupyter-data-platform/HEAD?labpath=FetchingData.ipynb)
+
 ## Stay in touch
 
 Join our [Slack channel](https://foxglove.dev/join-slack) to ask questions, share feedback, and stay up to date on what our team is working on.
