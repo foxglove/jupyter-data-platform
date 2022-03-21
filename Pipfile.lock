@@ -347,19 +347,19 @@
         },
         "fonttools": {
             "hashes": [
-                "sha256:058d15bd7aa35f47df70f99a15ac4994787127db42c468e695d1b9ef77c0a6a4",
-                "sha256:1b008d129c1c0f0174a74f2ea07b949ed4fbf328355cf4c9812506ecaac38b9f"
+                "sha256:2b288eae806800668cb5cdf52a37b5ac701c5adda2dd5c88b685581ce3385285",
+                "sha256:f8b35ed9ba189710994cec2c86b8eb5f0c49336698575e439a0d5671d3ca1ace"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==4.31.0"
+            "version": "==4.31.1"
         },
         "foxglove-data-platform": {
             "hashes": [
-                "sha256:10b2410f5b7db6d9d25624c6592b3999782039d7c0f8ee8024d8dc135dfcdd69",
-                "sha256:b302949f0c84a9f00b48680821fbc2f4b5be3fdb89379e2c468ae6c3b5d5259a"
+                "sha256:305133851368814454859ffaf92e279b888897fc143fd1b70eab56f008334170",
+                "sha256:e9834f9a34893129e0f2a111c0451e5737208c8d4daf4a65e441e1ebe9a47bfc"
             ],
             "index": "pypi",
-            "version": "==0.0.15"
+            "version": "==0.0.16"
         },
         "genmsg": {
             "hashes": [
@@ -698,11 +698,11 @@
         },
         "mcap-ros1-support": {
             "hashes": [
-                "sha256:05a0d00972bb8ea2f83b3b9ffabd21597c25b7a23e7adb1912dcfb555d370b4e",
-                "sha256:5cc3676ce3abb230d6f475bb9b968bf8325f550f6525b6e00eddb78ee53e1727"
+                "sha256:c1f018bb49858b389bd7fdb6fd14c71241e2bcb0478f375b395656727798d6de",
+                "sha256:e64293a1d01b2b9dea395e26abc35ddf8ceafe1593253ea2b10a2750956fa2e9"
             ],
             "index": "pypi",
-            "version": "==0.0.6"
+            "version": "==0.0.7"
         },
         "mistune": {
             "hashes": [
@@ -797,7 +797,7 @@
                 "sha256:fade0d4f4d292b6f39951b6836d7a3c7ef5b2347f3c420cd9820a1d90d794802",
                 "sha256:fdf3c08bce27132395d3c3ba1503cac12e17282358cb4bddc25cc46b0aca07aa"
             ],
-            "markers": "python_version >= '3.8'",
+            "markers": "python_version < '3.10' and platform_machine == 'arm64'",
             "version": "==1.22.3"
         },
         "packaging": {
@@ -1128,10 +1128,10 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:3672058bc3453457b622aab7a1c3bfd5ab0bdae451512f6cf25f64ed37f5b87c",
-                "sha256:acad2d8b20a1af07d4e4c9d2e9285c5ed9104354062f275f3fcd88dcef4f1326"
+                "sha256:1e760e2fe6a8163bc0b3d9a19c4f84342afa0a2affebfaa84b01b978a02ecaa7",
+                "sha256:e68985985296d9a66a881eb3193b0906246245294a881e7c8afe623866ac6a5c"
             ],
-            "version": "==2021.3"
+            "version": "==2022.1"
         },
         "pyyaml": {
             "hashes": [
