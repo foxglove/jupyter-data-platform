@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "813138c614cf5ea1a4a1f6a4b41f23da96b446dc59724a2383c8afb6be86ed65"
+            "sha256": "99c5090637f7faa66a1f4cf16cc27ec7879b9c8226e0f15c9006fc2d9c7ba9db"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -347,19 +347,15 @@
         },
         "fonttools": {
             "hashes": [
-                "sha256:2b288eae806800668cb5cdf52a37b5ac701c5adda2dd5c88b685581ce3385285",
-                "sha256:f8b35ed9ba189710994cec2c86b8eb5f0c49336698575e439a0d5671d3ca1ace"
+                "sha256:236b29aee6b113e8f7bee28779c1230a86ad2aac9a74a31b0aedf57e7dfb62a4",
+                "sha256:2df636a3f402ef14593c6811dac0609563b8c374bd7850e76919eb51ea205426"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==4.31.1"
+            "version": "==4.31.2"
         },
         "foxglove-data-platform": {
-            "hashes": [
-                "sha256:305133851368814454859ffaf92e279b888897fc143fd1b70eab56f008334170",
-                "sha256:e9834f9a34893129e0f2a111c0451e5737208c8d4daf4a65e441e1ebe9a47bfc"
-            ],
-            "index": "pypi",
-            "version": "==0.0.16"
+            "editable": true,
+            "path": "./../py-data-platform"
         },
         "genmsg": {
             "hashes": [
@@ -389,7 +385,7 @@
                 "sha256:84d9dd047ffa80596e0f246e2eab0b391788b0503584e8945f2368256d2735ff",
                 "sha256:9d643ff0a55b762d5cdb124b8eaa99c66322e2157b69160bc32796e824360e6d"
             ],
-            "markers": "python_version >= '3.5'",
+            "markers": "python_version >= '3'",
             "version": "==3.3"
         },
         "importlib-resources": {
@@ -797,7 +793,7 @@
                 "sha256:fade0d4f4d292b6f39951b6836d7a3c7ef5b2347f3c420cd9820a1d90d794802",
                 "sha256:fdf3c08bce27132395d3c3ba1503cac12e17282358cb4bddc25cc46b0aca07aa"
             ],
-            "markers": "python_version < '3.10' and platform_machine == 'arm64'",
+            "index": "pypi",
             "version": "==1.22.3"
         },
         "packaging": {
@@ -1469,7 +1465,7 @@
                 "sha256:44ece4d53fb1706f667c9bd1c648f5469a2ec925fcf3a776667042d645472c14",
                 "sha256:aabaf16477806a5e1dd19aa41f8c2b7950dd3c746362d7e3223dbe6de6ac448e"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4.0'",
             "version": "==1.26.9"
         },
         "wcwidth": {
