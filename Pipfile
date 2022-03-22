@@ -10,7 +10,7 @@ name = "ros"
 
 [packages]
 black = "*"
-foxglove-data-platform = "*"
+foxglove-data-platform = {editable = true, path = "./../py-data-platform"}
 folium = "*"
 genpy = "*"
 isort = "*"
