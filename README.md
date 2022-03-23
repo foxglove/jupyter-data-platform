@@ -8,7 +8,7 @@ This is a juypter notebook demonstrating the capabilities of [Foxglove Data Plat
 
 ### Run in Colab
 
-You can open this notebook directly in [Colab](https://github.com/foxglove/jupyter-data-platform/blob/main/FoxgloveDataPlatform.ipynb).
+You can open this notebook directly in [Colab](https://colab.research.google.com/github/foxglove/jupyter-data-platform/blob/main/FoxgloveDataPlatform.ipynb).
 
 ## Run in Binder
 
