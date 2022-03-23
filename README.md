@@ -15,7 +15,7 @@ You can open this notebook directly in [colab](https://github.com/foxglove/jupyt
 Alternatively you can launch the notebook via docker:
 
 ```
-docker build . -t jupyter-data-platform
+docker build . -f NotebookDockerfile -t jupyter-data-platform
 docker run -it --rm -p 8888:8888 jupyter-data-platform
 ```
 
