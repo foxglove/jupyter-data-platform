@@ -22,7 +22,6 @@ mcap-ros1-support = "*"
 numpy = "*"
 pandas = "*"
 pandasql = "*"
-rosbag = "*"
 
 [dev-packages]
 
