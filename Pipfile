@@ -10,7 +10,7 @@ name = "ros"
 
 [packages]
 black = "*"
-foxglove-data-platform = "==0.1.7"
+foxglove-data-platform = "==0.2.0"
 folium = "*"
 genpy = { version = "==0.6.14", index = "ros" }
 rospy = { version = "==1.15.11", index = "ros" }
