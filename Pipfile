@@ -3,23 +3,17 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
-[[source]]
-url = "https://rospypi.github.io/simple"
-verify_ssl = true
-name = "ros"
-
 [packages]
 black = "*"
-foxglove-data-platform = "==0.2.0"
+foxglove-data-platform = "==0.2.3"
 folium = "*"
-genpy = { version = "==0.6.14", index = "ros" }
-rospy = { version = "==1.15.11", index = "ros" }
 isort = "*"
 jupyterlab = "*"
 jupyterlab_code_formatter = "*"
 matplotlib = "*"
 mcap = "*"
-mcap-ros1-support = "==0.3.0"
+mcap-ros1-support = "==0.4.0"
+mcap-ros2-support = "==0.1.0"
 numpy = "*"
 pandas = "*"
 pandasql = "*"
