@@ -1,5 +1,8 @@
 # Jupyter notebook examples with Foxglove Data Platform
 
+> [!NOTE]
+> This code has moved to https://github.com/foxglove/tutorials.
+
 This is a juypter notebook sample showing how to load and analyze data using [Foxglove Data Platform](https://foxglove.dev/data-platform).
 
 ## Run in Colab or Binder
